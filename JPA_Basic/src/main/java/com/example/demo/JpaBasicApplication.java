@@ -8,7 +8,7 @@ import javax.persistence.Persistence;
 import com.example.demo.entity.UserEntity;
 
 public class JpaBasicApplication {
-
+//jpa 변경점
     public static void main(String[] args) {
 
         // EntityManagerFactory는 EntityManager를 생성하기 위한 팩토리 인터페이스로 persistence 단위별로 팩토리를 생성
